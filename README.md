@@ -76,7 +76,7 @@ https://justinai-service-965114594470.us-central1.run.app
 
 ## 🎥 Demo Video
 
-(Add your video link here)
+(https://youtu.be/P-sRx2Y5iLg)
 
 ---
 
