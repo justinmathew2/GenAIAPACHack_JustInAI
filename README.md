@@ -61,6 +61,19 @@ https://justinai-service-965114594470.us-central1.run.app
 
 ---
 
+## 📸 Demo
+
+### UI
+![UI](assets/ui.png)
+
+### Image Analysis
+![Analysis](assets/analysis.png)
+
+### Task & Calendar
+![Task](assets/task.png)
+
+---
+
 ## 🎥 Demo Video
 
 (Add your video link here)
